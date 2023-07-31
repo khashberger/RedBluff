@@ -6,6 +6,6 @@ In the Bedding csv, the Z data is in meters and the bedding measurements are rec
 
 
 
-Code for original 3D terrain model found at:  https://www.geodose.com/2019/09/3d-terrain-modelling-in-python.html
+Code for original 3D terrain model based off '3D terrain modeling in python' published by geodose. This is found at https://www.geodose.com/2019/09/3d-terrain-modelling-in-python.html
 
 Eventually I will add in the python script. For now this is where I am organizing my CSVs.
